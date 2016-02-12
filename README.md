@@ -1,7 +1,12 @@
 _Project description_
-#Content Slider using HTML5 and jQuery#
-* The slider will hold an image as well as text content
-* Previous and Next buttons as well as an autoswitch option
-* Use a fade effect
-- - - -
-learned jQuery selectors, methods - addClass(), romoveClass(), fadeIn() & fadeOut() effects, setInterval function
+#Youtube Search Engine#
+* Complete YouTube video search script
+* Use the YouTube Data API v3
+* Animated Search Box
+* ChannelList and searchList methods
+* FancyBox plugin to open videos
+* Paging Buttons & Lightbox
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+_learned jQuery animate() method, YouTube Data API, Makin a GET Request using $.get(), Loop through Result Set and insert into HTML, API Page Tokens, FancyBox jQuery plugin
+https://developers.google.com/youtube/v3/docs/search/list_
+
